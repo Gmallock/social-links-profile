@@ -47,9 +47,5 @@ Nome: Gabriel Farias Prado Martins
 
 Frontend Mentor: @Gmallock
 
-Portfólio: Ainda não possuo um portfólio online.
-
-Redes sociais: sem redes públicas para compartilhar no momento
-
 Observações
 Não utilizei nenhum framework ou biblioteca além do HTML/CSS puro e a importação de fontes do Google Fonts. O projeto foi iniciado com abordagem desktop first e validado com ferramentas online.
